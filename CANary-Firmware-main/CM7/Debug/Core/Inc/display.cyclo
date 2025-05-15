@@ -1,0 +1,9 @@
+../Core/Inc/display.c:23:6:smallWarning	1
+../Core/Inc/display.c:33:6:bigWarning	1
+../Core/Inc/display.c:44:6:bottomScreenSection	1
+../Core/Inc/display.c:310:6:screenWelcome	1
+../Core/Inc/display.c:318:6:screenRed	1
+../Core/Inc/display.c:326:6:screenGreen	1
+../Core/Inc/display.c:334:6:screenBlue	1
+../Core/Inc/display.c:342:6:screenBrightnessChange	6
+../Core/Inc/display.c:357:6:displayScreen	7

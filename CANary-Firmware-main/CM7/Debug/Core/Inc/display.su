@@ -1,0 +1,9 @@
+../Core/Inc/display.c:23:6:smallWarning	24	static
+../Core/Inc/display.c:33:6:bigWarning	24	static
+../Core/Inc/display.c:44:6:bottomScreenSection	24	static
+../Core/Inc/display.c:310:6:screenWelcome	16	static
+../Core/Inc/display.c:318:6:screenRed	16	static
+../Core/Inc/display.c:326:6:screenGreen	16	static
+../Core/Inc/display.c:334:6:screenBlue	16	static
+../Core/Inc/display.c:342:6:screenBrightnessChange	8	static
+../Core/Inc/display.c:357:6:displayScreen	16	static

@@ -1,0 +1,2 @@
+../Core/Inc/xbee_platform_stm32.c:16:10:xbee_seconds_timer	4	static
+../Core/Inc/xbee_platform_stm32.c:25:10:xbee_millisecond_timer	4	static

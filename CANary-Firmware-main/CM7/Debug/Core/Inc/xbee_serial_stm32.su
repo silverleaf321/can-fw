@@ -1,0 +1,15 @@
+../Core/Inc/xbee_serial_stm32.c:79:8:xbee_ser_invalid	16	static
+../Core/Inc/xbee_serial_stm32.c:102:13:xbee_ser_portname	16	static
+../Core/Inc/xbee_serial_stm32.c:135:5:xbee_ser_write	32	static
+../Core/Inc/xbee_serial_stm32.c:234:5:xbee_ser_read	32	static
+../Core/Inc/xbee_serial_stm32.c:271:5:xbee_ser_putchar	24	static
+../Core/Inc/xbee_serial_stm32.c:302:5:xbee_ser_getchar	24	static
+../Core/Inc/xbee_serial_stm32.c:363:5:xbee_ser_tx_free	16	static
+../Core/Inc/xbee_serial_stm32.c:383:5:xbee_ser_tx_used	16	static
+../Core/Inc/xbee_serial_stm32.c:419:5:xbee_ser_rx_free	16	static
+../Core/Inc/xbee_serial_stm32.c:452:5:xbee_ser_rx_used	16	static
+../Core/Inc/xbee_serial_stm32.c:488:5:xbee_ser_open	16	static
+../Core/Inc/xbee_serial_stm32.c:591:5:xbee_ser_baudrate	16	static
+../Core/Inc/xbee_serial_stm32.c:637:5:xbee_ser_close	16	static
+../Core/Inc/xbee_serial_stm32.c:669:5:xbee_ser_break	16	static
+../Core/Inc/xbee_serial_stm32.c:744:5:xbee_ser_get_cts	16	static

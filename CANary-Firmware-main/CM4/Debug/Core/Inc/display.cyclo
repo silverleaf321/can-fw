@@ -1,0 +1,9 @@
+../Core/Inc/display.c:33:6:autox	26
+../Core/Inc/display.c:186:6:skidpad	26
+../Core/Inc/display.c:332:6:sound	26
+../Core/Inc/display.c:484:6:accel	38
+../Core/Inc/display.c:577:6:diag	6
+../Core/Inc/display.c:618:6:sensors	52
+../Core/Inc/display.c:766:6:screenWelcome	1
+../Core/Inc/display.c:774:6:screenBrightnessChange	6
+../Core/Inc/display.c:789:6:displayScreen	11
